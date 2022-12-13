@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My ApplicationFactures</string>
+    <string name="nn">nom de Produit</string>
+    <string name="nom_de_produit">nom de Produit</string>
+    <string name="g_n_rateur_des_factures_en_pdf">Générateur des factures en pdf</string>
+    <string name="prix_de_produit">prix de Produit</string>
+    <string name="quantit_de_produit">quantité de Produit</string>
+
+</resources>
